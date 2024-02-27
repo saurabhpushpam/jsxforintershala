@@ -1,0 +1,155 @@
+.top{
+  margin: 0;
+  padding: 0;
+  width: 50vw;
+  height: 100vh; 
+  margin: auto;
+  background: linear-gradient(to bottom, white, rgb(235, 217, 88));
+}
+
+.head{
+  width: 100%;
+  height: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.head img{
+  width: 40%;
+  height: 80%;
+  
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  justify-content: center;
+
+}
+
+.first{
+  width: 100%;
+  height: 45%;
+  display: flex;
+ 
+}
+
+.trophy{
+  width: 35%;
+  height: 100%;
+  display: flex;
+ 
+}
+
+
+.trophy img{
+  width: 100%;
+  height: 100%;
+  
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  justify-content: center;
+
+}
+
+.photo{
+  width:70%;
+  height: 100%;
+  margin-top: -15px;
+}
+
+.ulist{
+  font-size: 10px;
+  list-style-type: disc;
+  margin-top: -15px;
+}
+
+.photo img{
+  width: 99%;
+  height: 60%;
+  
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  justify-content: center;
+
+  /* background-image: url('./logo.png'); */
+ 
+}
+
+.photo p{
+    font-size: 10px;
+    margin-top: -5px;
+}
+.photo span{
+  
+  font-weight: 800;
+  
+}
+
+.para p{
+  margin-top: 15px;
+  font-size: 7.5px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.machine{
+  width:100%;
+  height: 25%;
+  border-bottom: 1.5px solid rgb(173, 14, 14);
+
+}
+
+.machine img{
+  width: 99%;
+  height: 80%;
+  
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  justify-content: center;
+
+}
+
+.machine p{
+  font-size: 10px;
+  text-align: center;
+}
+
+.about{
+  width:100%;
+  height: 7%;
+
+
+}
+
+.about h6{
+  font-size: 10px;
+  font-weight: 900;
+  margin: 10px;
+  text-align: center;
+}
+
+.about p{
+  font-size: 10px;
+  margin: 0;
+  text-align: center;
+}
+
+.footer{
+  height: 8%;
+  width: 100%;
+  background-color: red;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.item{
+  display: flex;
+  align-items: center;
+  color: white;
+
+}
+
+.item p{
+  font-size: 12px;
+}
